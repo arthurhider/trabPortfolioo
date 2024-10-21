@@ -1,0 +1,263 @@
+* {
+    margin: 0px;
+}
+ 
+.A {
+    color: rgb(51, 21, 2);
+    border: 2px solid rgb(213, 171, 107);
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    margin: 5px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+nav{
+   
+    text-align: right;
+    float: right;
+    margin-top: 75px;
+    display: inline;
+    margin-right: 250px;
+}
+    a:hover{
+        color: rgb(239, 95, 220);
+ 
+    }
+ 
+ 
+ 
+#sec2{
+margin-top: 60px;
+margin-left: 250px;
+}
+ 
+    #sec1{
+        text-align: center;
+        margin-top: 100px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 28px;
+        color:rgb(51, 21, 2)
+    }
+ 
+    body{
+        background-color: bisque;
+    }
+    img{
+        border-radius: 20px;
+        display: inline;
+    }
+    #instituicoes{
+        margin-top: 10px ;
+        font-size: 15px;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    #H6{
+        margin-top: 20px;
+    }
+    #logoescola{
+        margin-top: 15px;
+    }
+    #img1{
+        border-radius: 20px;
+        margin-left: 45rem;
+        margin-top: 70px;
+    }
+    #sec3{
+        background-color:rgb(51, 21, 2);
+        text-align: center;
+        margin-top: 20px;
+        padding-bottom: 40px;
+        padding: 40px;
+    }
+    #p1{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: aliceblue;
+       margin-top: 15px;
+       
+    }
+#h2h{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+    #p2{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: aliceblue;
+       
+    }
+    #p3{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: aliceblue;
+    }
+   
+    #projetos{
+        text-align: center;
+        margin-top: 250px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 40px;
+        color:rgb(51, 21, 2)
+    }
+ 
+    #sec4{
+        text-align: center;
+   
+    }
+a:hover{
+    transform: scale(400px);
+}
+    #img2{
+       
+        width: 100px;
+        display: flex;
+        display: inline-block;
+    }
+ 
+ img:hover{
+    transform: scale(1.1);
+    transition: 0.3s all;
+ }
+ 
+ #link1{
+    margin-right: 70px;
+   
+ }
+ 
+ #show{
+    margin-top: 70px;
+ }
+ 
+
+ 
+ #Habilidades{
+    text-align: center;
+        margin-top: 75px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 60px;
+        color:rgb(51, 21, 2)
+       
+ }
+
+
+footer{
+    margin-top: 300px;
+    background-color:burlywood;
+}
+
+#tituloft{
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+#formulario{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ }
+
+ #textofluente{
+    margin-top: 7px;
+    border-radius: 10px;
+    
+    max-width: 190px;
+    background-color: burlywood;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: px;
+    color:rgb(51, 21, 2)
+ }
+
+
+
+#descricao{
+    max-width: 750px;
+    border-radius: 20px;
+    background-color: burlywood;
+    margin-left: 300px;
+    margin-top: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(51, 21, 2)
+}
+
+#habilidade2{
+    
+    
+    margin-top: 25px;
+    
+}
+
+#textohab2{
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+   
+    max-width: 190px;
+    background-color: burlywood;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: px;
+    color:rgb(51, 21, 2)
+}
+
+#listaTec{
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 520px;
+    max-width: 290px;
+    background-color: burlywood;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(51, 21, 2)
+}
+
+#trabequipe{
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+   
+    max-width: 190px;
+    background-color: burlywood;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(51, 21, 2)
+    
+
+}
+
+#hab3logo{
+   
+    margin-top: 25px;
+    text-align: center;
+}
+
+#HABS{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 1rem;
+    margin-top: 70px;
+    align-items: center;
+}
+
+
+
+#textogithub{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#logoscontato{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+}
+
